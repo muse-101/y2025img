@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2025 Photo Album on 2025</title>
-    <link>/</link>
+    <link>https://muse-101.github.io/y2025img/</link>
     <description>Recent content in 2025 Photo Album on 2025</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Awaken the Force Within - May the Empowerment Be with You!</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Awaken the Force Within - May the Empowerment Be with You!</copyright><atom:link href="https://muse-101.github.io/y2025img/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
